@@ -6,8 +6,8 @@
       { "to": "/mint?to=faq", "title": "FAQ" }
     ],
     "socials": [
-      { "icon": "Discord", "link": "" },
       { "icon": "Twitter", "link": "https://twitter.com/" },
+      { "icon": "Discord", "link": "" },
       { "icon": "Investment", "link": "" }
     ]
   },
@@ -36,8 +36,8 @@
   },
   "footer": {
     "socials": [
-      { "icon": "Discord", "link": "" },
       { "icon": "Twitter", "link": "https://twitter.com/" },
+      { "icon": "Discord", "link": "" },
       { "icon": "Investment", "link": "" }
     ],
     "investment": "",
